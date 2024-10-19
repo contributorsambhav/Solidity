@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "ate",
+				"outputs": [
+					{
+						"internalType": "int8",
+						"name": "",
+						"type": "int8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"datatypes.sol": "datatypes"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"datatypes.sol": {
+			"keccak256": "0x3112acc3494abba9eaa34d7b2cfb4f90c3225e4355a360df6fe7f27543c80957",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://304ea7325d062b46b831d60bcf0b08530c131fb7a3ef5ed6dca55639919cbfb6",
+				"dweb:/ipfs/QmPuig9eqCLo7DrLaQVmt9it6bxGMuYGpfEqywJAErd5dq"
+			]
+		}
+	},
+	"version": 1
+}
